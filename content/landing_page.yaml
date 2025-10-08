@@ -1,0 +1,17 @@
+slug: landing
+type: landing
+title: Test Landing Page
+
+protected: false
+publish_at: null
+expires_at: null
+
+meta_title: Landing Page - Welcome
+meta_description: Our awesome landing page for testing
+og_title: Test Landing Page
+og_description: Testing landing page sync
+og_image: null
+
+metadata:
+  template: default
+  hero_image: /images/hero.jpg

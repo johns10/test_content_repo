@@ -1,0 +1,19 @@
+slug: blog-post
+type: blog
+title: My First Blog Post
+
+protected: false
+publish_at: 2025-01-15T10:00:00Z
+expires_at: null
+
+meta_title: My First Blog Post - Test Blog
+meta_description: A sample blog post for testing content sync
+og_title: My First Blog Post
+og_description: Testing the content sync system
+og_image: null
+
+metadata:
+  template: article
+  author: Test Author
+  category: Testing
+  featured: true
